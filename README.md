@@ -22,10 +22,19 @@ Currently shipping a beach-equipment rental platform 🌴 — powered by web, mo
 ![Followers](https://img.shields.io/github/followers/SimonBitton?style=for-the-badge&color=8B5CF6&labelColor=black)
 ![Stars](https://img.shields.io/github/stars/SimonBitton?style=for-the-badge&color=facc15&labelColor=black)
 
+<br>
+
+<a href="#building">Currently Building</a> •
+<a href="#interests">Interests</a> •
+<a href="#stack">Tech Stack</a> •
+<a href="#stats">Stats</a> •
+<a href="#contact">Contact</a>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
+<a id="building"></a>
 ## 🚀 Currently Building
 
 <table align="center">
@@ -53,53 +62,78 @@ A modern, end-to-end platform for renting beach equipment online — from browsi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
+<a id="interests"></a>
 ## 🧠 What I'm Into
 
-<table align="center">
-<tr>
-<td align="center" width="140"><img width="48" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/><br><b>AI</b></td>
-<td align="center" width="140"><img width="48" src="https://img.icons8.com/fluency/48/web-design.png"/><br><b>Full Stack</b></td>
-<td align="center" width="140"><img width="48" src="https://img.icons8.com/fluency/48/iphone-x.png"/><br><b>Mobile</b></td>
-<td align="center" width="140"><img width="48" src="https://img.icons8.com/fluency/48/design.png"/><br><b>UI/UX</b></td>
-<td align="center" width="140"><img width="48" src="https://img.icons8.com/fluency/48/cloud.png"/><br><b>Cloud</b></td>
-<td align="center" width="140"><img width="48" src="https://img.icons8.com/fluency/48/automation.png"/><br><b>Automation</b></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/AI-3B82F6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobile-3B82F6?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-3B82F6?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge&logo=zapier&logoColor=white"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
+<a id="stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+<details open>
+<summary><b>💬 Languages</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=ts,js,swift,python,html,css"/>
+</details>
 
-**Frontend**
+<br>
+
+<details>
+<summary><b>🎨 Frontend</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+</details>
 
-**Backend**
+<br>
+
+<details>
+<summary><b>⚙️ Backend</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase"/>
+</details>
 
-**Database**
+<br>
+
+<details>
+<summary><b>🗄️ Database</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</details>
 
-**DevOps**
+<br>
+
+<details>
+<summary><b>🚢 DevOps</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=docker,github,vercel,cloudflare"/>
+</details>
 
-**Tools**
+<br>
+
+<details>
+<summary><b>🧰 Tools</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman"/>
+</details>
 
 </div>
 
+> Clique sur chaque catégorie pour la déplier ⬆️ — c'est le seul vrai type d'interactivité que GitHub autorise dans un README (le JS est bloqué), donc autant en profiter.
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
+<a id="stats"></a>
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -109,7 +143,7 @@ A modern, end-to-end platform for renting beach equipment online — from browsi
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonBitton&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=facc15"/>
+<img src="https://streak-stats.demolab.com/?user=SimonBitton&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=facc15"/>
 
 <br>
 
@@ -137,7 +171,13 @@ A modern, end-to-end platform for renting beach equipment online — from browsi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
+<a id="contact"></a>
 <div align="center">
+
+### 🎲 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
 
 ### 💬 Let's build something great together
 
