@@ -1,91 +1,189 @@
-<!--
-PROFIL SIMONBITTON — version originale, 19 octobre 2026.
-Personnalisation : modifier les textes ci-dessous et les SVG dans assets/.
-Seul projet présenté : Histoiren. Les technologies citées sont présentes dans son dépôt public.
-Ne pas ajouter de chiffres d'audience, de récompenses ou de niveau d'expertise sans preuve.
-Pour publier : copier ce README.md ET assets/ dans le dépôt de profil SimonBitton/SimonBitton.
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg" />
-  <img src="./assets/profile-light.svg" width="100%" alt="Simon Bitton — Donner une interface à la curiosité. À la une : Histoiren." />
-</picture>
-
 <div align="center">
 
-### Des idées à explorer. Des interfaces pour les rendre accessibles.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:3B82F6,100:8B5CF6&text=Simon%20Bitton&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Product%20Craftsman&descAlignY=58&descSize=20"/>
 
-Je construis **Histoiren**, une expérience interactive pour explorer l’histoire du monde, relier les événements et apprendre en naviguant.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+digital+products+%F0%9F%9A%80;Developing+AI-powered+applications+%F0%9F%A4%96;Creating+modern+web+experiences+%F0%9F%92%BB;Always+learning+new+technologies+%F0%9F%93%9A" />
 
-**[Explorer Histoiren ↗](https://histoiren.vercel.app/)** · **[Voir le code ↗](https://github.com/SimonBitton/Histoiren)** · **[Mon profil ↗](https://github.com/SimonBitton)**
+<br>
+
+Passionate about software development, design, and building products people actually love.
+Currently shipping a beach-equipment rental platform 🌴 — powered by web, mobile, and a touch of AI.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://simon-b-one.vercel.app/)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SimonBitton&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/SimonBitton?style=for-the-badge&color=8B5CF6&labelColor=black)
+![Stars](https://img.shields.io/github/stars/SimonBitton?style=for-the-badge&color=facc15&labelColor=black)
+
+<br>
+
+<a href="#building">Currently Building</a> •
+<a href="#interests">Interests</a> •
+<a href="#stack">Tech Stack</a> •
+<a href="#stats">Stats</a> •
+<a href="#contact">Contact</a>
 
 </div>
 
-<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-## 01 / Histoiren
+<a id="building"></a>
+## 🚀 Currently Building
 
-### L’histoire prend une autre dimension.
-
-Une date devient plus intéressante quand on comprend ce qui l’entoure. **Histoiren** propose d’aborder l’histoire par une frise interactive, des fiches et des outils d’apprentissage.
-
-<table>
+<table align="center">
 <tr>
-<td width="33%" valign="top">
-<h3>Explorer</h3>
-<p>Parcourir une frise zoomable, naviguer entre les périodes et retrouver les événements grâce à la recherche et aux filtres.</p>
+<td width="60%" valign="top">
+
+### 🌴 Beach Rental Platform
+A modern, end-to-end platform for renting beach equipment online — from browsing gear to booking a spot on the sand in a few taps.
+
+**Focus areas**
+- 🌐 Web Development — fast, responsive booking experience
+- 📱 Mobile Apps — on-the-go rentals for customers & vendors
+- 🤖 Artificial Intelligence — smart recommendations & automation
+- ☁️ Cloud — scalable infrastructure
+- ⚡ Automation — streamlined operations behind the scenes
+
 </td>
-<td width="33%" valign="top">
-<h3>Relier</h3>
-<p>Découvrir les causes, les conséquences et les événements liés, avec des fiches enrichies d’extraits et d’images Wikipédia.</p>
-</td>
-<td width="33%" valign="top">
-<h3>Apprendre</h3>
-<p>Passer de la découverte à la mémorisation avec des quiz et des flashcards construits à partir des événements.</p>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+
 </td>
 </tr>
 </table>
 
-**Une interface responsive**, un thème clair et sombre, et une exploration organisée par pays complètent le projet.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-> **Le fil conducteur :** transformer une succession de dates en un parcours de découverte.
+<a id="interests"></a>
+## 🧠 What I'm Into
 
-<br />
+<p align="center">
+<img src="https://img.shields.io/badge/AI-3B82F6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobile-3B82F6?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-3B82F6?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge&logo=zapier&logoColor=white"/>
+</p>
 
-## 02 / Dans le code
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-Les technologies utilisées dans Histoiren :
-
-**`JavaScript`** · **`HTML`** · **`CSS`** · **`API MediaWiki`** · **`Vercel`**
-
-| Partie | Ce qu’on peut consulter |
-| :--- | :--- |
-| Frise interactive | [Navigation, zoom et représentation du temps](https://github.com/SimonBitton/Histoiren/blob/main/src/frise.js) |
-| Apprentissage | [Quiz et flashcards](https://github.com/SimonBitton/Histoiren/blob/main/src/quiz.js) |
-| Enrichissement | [Récupération des extraits et images Wikipédia](https://github.com/SimonBitton/Histoiren/blob/main/src/wiki.js) |
-| Apparence | [Gestion du thème](https://github.com/SimonBitton/Histoiren/blob/main/src/theme.js) |
-
-<br />
-
-## 03 / Suivre le projet
-
-Le code, les évolutions et les discussions autour d’Histoiren sont accessibles sur GitHub.
-
-**[Parcourir le dépôt →](https://github.com/SimonBitton/Histoiren)**  
-**[Signaler un problème ou proposer une idée →](https://github.com/SimonBitton/Histoiren/issues)**
-
-<!--
-ZONE FACULTATIVE — à renseigner uniquement si tu souhaites la rendre publique.
-Portfolio : À compléter
-Contact professionnel : À compléter
-Prochaine étape d’Histoiren : À compléter
-Pour ajouter une capture, placer un fichier dans assets/ et ajouter :
-![Aperçu d’Histoiren](./assets/histoiren-preview.png)
--->
-
----
+<a id="stack"></a>
+## 🛠️ Tech Stack
 
 <div align="center">
-<sub><b>SimonBitton</b> · Explorer. Relier. Comprendre.</sub>
+
+<details open>
+<summary><b>💬 Languages</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,swift,python,html,css"/>
+</details>
+
+<br>
+
+<details>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+</details>
+
+<br>
+
+<details>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase"/>
+</details>
+
+<br>
+
+<details>
+<summary><b>🗄️ Database</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</details>
+
+<br>
+
+<details>
+<summary><b>🚢 DevOps</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=docker,github,vercel,cloudflare"/>
+</details>
+
+<br>
+
+<details>
+<summary><b>🧰 Tools</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman"/>
+</details>
+
+</div>
+
+> Clique sur chaque catégorie pour la déplier ⬆️ — c'est le seul vrai type d'interactivité que GitHub autorise dans un README (le JS est bloqué), donc autant en profiter.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<a id="stats"></a>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SimonBitton&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonBitton&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=SimonBitton&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=facc15"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SimonBitton&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SimonBitton&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=facc15"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SimonBitton/SimonBitton/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+> 💡 To activate this, add the [`snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the animated snake above from your contribution graph.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<a id="contact"></a>
+<div align="center">
+
+### 🎲 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+### 💬 Let's build something great together
+
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Building-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Learning-success?style=for-the-badge"/>
+
+<br><br>
+
+<i>"Code is the closest thing we have to magic — I just try to use it well."</i>
+
 </div>
