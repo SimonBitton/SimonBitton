@@ -1,189 +1,160 @@
-<div align="center">
+<!-- Upload README.md and assets/ together to the root of SimonBitton/SimonBitton. -->
+![Simon / SB — Build. Explore. Learn. Web, mobile and AI.](assets/simon-header.png)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:3B82F6,100:8B5CF6&text=Simon%20Bitton&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Product%20Craftsman&descAlignY=58&descSize=20"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+digital+products+%F0%9F%9A%80;Developing+AI-powered+applications+%F0%9F%A4%96;Creating+modern+web+experiences+%F0%9F%92%BB;Always+learning+new+technologies+%F0%9F%93%9A" />
-
-<br>
+# Simon
 
 Passionate about software development, design, and building products people actually love.
-Currently shipping a beach-equipment rental platform 🌴 — powered by web, mobile, and a touch of AI.
+Currently building a beach-equipment rental platform — powered by web, mobile, and a touch of AI.
 
-<br>
+<a href="https://simon-b-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-CCF437?style=for-the-badge" alt="Visit my portfolio" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://simon-b-one.vercel.app/)
+<img src="https://komarev.com/ghpvc/?username=SimonBitton&amp;style=for-the-badge&amp;color=292D34&amp;label=PROFILE+VIEWS" alt="Profile view counter" />
 
-<br>
+<a href="https://github.com/SimonBitton?tab=followers"><img src="https://img.shields.io/github/followers/SimonBitton?style=for-the-badge&amp;color=292D34&amp;labelColor=1F2228&amp;logo=github&amp;logoColor=F4F3EB" alt="Followers" /></a>
+<a href="https://github.com/SimonBitton?tab=repositories"><img src="https://img.shields.io/github/stars/SimonBitton?style=for-the-badge&amp;color=292D34&amp;labelColor=1F2228&amp;logo=github&amp;logoColor=F4F3EB" alt="Stars" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SimonBitton&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/SimonBitton?style=for-the-badge&color=8B5CF6&labelColor=black)
-![Stars](https://img.shields.io/github/stars/SimonBitton?style=for-the-badge&color=facc15&labelColor=black)
+[Currently building](#building) · [Interests](#interests) · [Tech stack](#stack) · [Stats](#stats) · [Contact](#contact)
 
-<br>
-
-<a href="#building">Currently Building</a> •
-<a href="#interests">Interests</a> •
-<a href="#stack">Tech Stack</a> •
-<a href="#stats">Stats</a> •
-<a href="#contact">Contact</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
 <a id="building"></a>
-## 🚀 Currently Building
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+## 01 / Currently building
 
-### 🌴 Beach Rental Platform
+### Beach Rental Platform
+
 A modern, end-to-end platform for renting beach equipment online — from browsing gear to booking a spot on the sand in a few taps.
 
 **Focus areas**
-- 🌐 Web Development — fast, responsive booking experience
-- 📱 Mobile Apps — on-the-go rentals for customers & vendors
-- 🤖 Artificial Intelligence — smart recommendations & automation
-- ☁️ Cloud — scalable infrastructure
-- ⚡ Automation — streamlined operations behind the scenes
 
-</td>
-<td width="40%" valign="top" align="center">
+- **Web development** — a fast, responsive booking experience.
+- **Mobile apps** — on-the-go rentals for customers and vendors.
+- **Artificial intelligence** — smart recommendations and automation.
+- **Cloud** — scalable infrastructure.
+- **Automation** — streamlined operations behind the scenes.
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
 <a id="interests"></a>
-## 🧠 What I'm Into
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI-3B82F6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mobile-3B82F6?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-3B82F6?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge&logo=zapier&logoColor=white"/>
-</p>
+## 02 / What I'm into
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://img.shields.io/badge/AI-292D34?style=for-the-badge&amp;logo=openai&amp;logoColor=F4F3EB" alt="Artificial intelligence" />
+<img src="https://img.shields.io/badge/Full%20Stack-292D34?style=for-the-badge&amp;logo=react&amp;logoColor=F4F3EB" alt="Full stack development" />
+<img src="https://img.shields.io/badge/Mobile-292D34?style=for-the-badge&amp;logo=apple&amp;logoColor=F4F3EB" alt="Mobile applications" />
+<img src="https://img.shields.io/badge/UI%2FUX-292D34?style=for-the-badge&amp;logo=figma&amp;logoColor=F4F3EB" alt="UI and UX design" />
+<img src="https://img.shields.io/badge/Cloud-292D34?style=for-the-badge&amp;logo=icloud&amp;logoColor=F4F3EB" alt="Cloud" />
+<img src="https://img.shields.io/badge/Automation-292D34?style=for-the-badge&amp;logo=zapier&amp;logoColor=F4F3EB" alt="Automation" />
+
+<details>
+<summary><strong>What I'm exploring</strong></summary>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=CCF437&amp;background=1F2228&amp;center=false&amp;vCenter=true&amp;width=700&amp;height=56&amp;lines=Building+digital+products;Developing+AI-powered+applications;Creating+modern+web+experiences;Learning+new+technologies" alt="Building digital products, AI applications and web experiences; learning new technologies." width="700" />
+
+</details>
+
+---
 
 <a id="stack"></a>
-## 🛠️ Tech Stack
 
-<div align="center">
+## 03 / Tech stack
+
+Expand a category to explore the tools I use.
 
 <details open>
-<summary><b>💬 Languages</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,swift,python,html,css"/>
-</details>
+<summary><strong>Languages</strong></summary>
 
-<br>
+TypeScript · JavaScript · Swift · Python · HTML · CSS
+
+</details>
 
 <details>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-</details>
+<summary><strong>Frontend</strong></summary>
 
-<br>
+React · Next.js · Tailwind CSS · Vite
+
+</details>
 
 <details>
-<summary><b>⚙️ Backend</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase"/>
-</details>
+<summary><strong>Backend</strong></summary>
 
-<br>
+Node.js · Express · Supabase · Firebase
+
+</details>
 
 <details>
-<summary><b>🗄️ Database</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</details>
+<summary><strong>Databases</strong></summary>
 
-<br>
+PostgreSQL · MySQL · MongoDB
+
+</details>
 
 <details>
-<summary><b>🚢 DevOps</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=docker,github,vercel,cloudflare"/>
-</details>
+<summary><strong>DevOps</strong></summary>
 
-<br>
+Docker · GitHub · Vercel · Cloudflare
+
+</details>
 
 <details>
-<summary><b>🧰 Tools</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman"/>
+<summary><strong>Tools</strong></summary>
+
+VS Code · Git · GitHub · Figma · Postman
+
 </details>
 
-</div>
-
-> Clique sur chaque catégorie pour la déplier ⬆️ — c'est le seul vrai type d'interactivité que GitHub autorise dans un README (le JS est bloqué), donc autant en profiter.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
 <a id="stats"></a>
-## 📊 GitHub Stats
 
-<div align="center">
+## 04 / GitHub stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SimonBitton&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonBitton&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+[View my GitHub profile](https://github.com/SimonBitton) · [Explore my repositories](https://github.com/SimonBitton?tab=repositories)
 
-<br>
+<img src="https://github-stats-extended.vercel.app/api?username=SimonBitton&amp;show_icons=true&amp;bg_color=1F2228&amp;title_color=CCF437&amp;text_color=F4F3EB&amp;icon_color=CCF437&amp;hide_border=true" alt="GitHub statistics for SimonBitton" width="467" />
 
-<img src="https://streak-stats.demolab.com/?user=SimonBitton&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=facc15"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SimonBitton&amp;bg_color=1F2228&amp;title_color=CCF437&amp;text_color=F4F3EB&amp;hide_border=true&amp;layout=compact" alt="Most-used languages in public repositories" width="300" />
 
-<br>
+<details>
+<summary><strong>Contribution streak</strong></summary>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SimonBitton&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+<img src="https://streak-stats.demolab.com/?user=SimonBitton&amp;background=1F2228&amp;ring=CCF437&amp;fire=CCF437&amp;currStreakLabel=CCF437&amp;sideLabels=F4F3EB&amp;currStreakNum=F4F3EB&amp;sideNums=F4F3EB&amp;dates=B6BABF&amp;stroke=717780&amp;hide_border=true" alt="Contribution streak for SimonBitton" width="495" />
 
-</div>
+</details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+### Activity
 
-## 📈 Activity Graph
+[Explore my contribution graph and recent activity on GitHub](https://github.com/SimonBitton#year-list-container).
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SimonBitton&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=facc15"/>
-</div>
+<details>
+<summary><strong>Contribution snake</strong></summary>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+An animated contribution grid can be generated with the SB palette using the supplied GitHub Actions workflow.
 
-## 🐍 Contribution Snake
+[Generate or refresh the animation](https://github.com/SimonBitton/SimonBitton/actions/workflows/sb-snake.yml)
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/SimonBitton/SimonBitton/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+<!-- After running the included workflow once, uncomment the next line. -->
+<!-- ![SimonBitton contribution snake, in the SB palette](assets/contribution-snake.svg) -->
 
-> 💡 To activate this, add the [`snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the animated snake above from your contribution graph.
+</details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+---
 
 <a id="contact"></a>
-<div align="center">
 
-### 🎲 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+## 05 / Let's build something great together
 
-<br><br>
+<img src="https://img.shields.io/badge/Open%20source-Love-292D34?style=for-the-badge" alt="Open source / Love" />
+<img src="https://img.shields.io/badge/AI-Building-292D34?style=for-the-badge" alt="AI / Building" />
+<img src="https://img.shields.io/badge/Always-Learning-292D34?style=for-the-badge" alt="Always / Learning" />
 
-### 💬 Let's build something great together
+[Visit my portfolio](https://simon-b-one.vercel.app/)
 
-<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Building-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Learning-success?style=for-the-badge"/>
+> “Code is the closest thing we have to magic — I just try to use it well.”
 
-<br><br>
+<details>
+<summary><strong>Random dev quote</strong></summary>
 
-<i>"Code is the closest thing we have to magic — I just try to use it well."</i>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;quoteColor=F4F3EB&amp;authorColor=B6BABF&amp;backgroundColor=1F2228&amp;symbolColor=CCF437" alt="Random programming quote" width="600" />
 
-</div>
+</details>
