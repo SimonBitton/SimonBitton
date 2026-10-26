@@ -134,7 +134,7 @@ An animated contribution grid can be generated with the SB palette using the sup
 [Generate or refresh the animation](https://github.com/SimonBitton/SimonBitton/actions/workflows/sb-snake.yml)
 
 <!-- After running the included workflow once, uncomment the next line. -->
-<!-- ![SimonBitton contribution snake, in the SB palette](assets/contribution-snake.svg) -->
+![SimonBitton contribution snake, in the SB palette](assets/contribution-snake.svg)
 
 </details>
 
