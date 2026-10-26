@@ -1,0 +1,45 @@
+name: SB contribution snake
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sb-contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Generate SB animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SimonBitton
+          outputs: |
+            assets/contribution-snake.svg?color_snake=%23CCF437&color_dots=%23292D34,%23717780,%23B6BABF,%238CD9E8,%23CCF437
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save animation and enable it in the README
+        shell: bash
+        run: |
+          python3 - <<'PYCODE'
+          from pathlib import Path
+          path = Path('README.md')
+          text = path.read_text()
+          text = text.replace('<!-- ![SimonBitton contribution snake, in the SB palette](assets/contribution-snake.svg) -->', '![SimonBitton contribution snake, in the SB palette](assets/contribution-snake.svg)')
+          path.write_text(text)
+          PYCODE
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contribution-snake.svg README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update SB contribution animation"
+            git push
+          fi
